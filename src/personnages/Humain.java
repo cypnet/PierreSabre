@@ -1,11 +1,11 @@
 package personnages;
 
-public class humain {
+public class Humain {
 	private String nom;
 	private String boissonFavorite;
 	private int quantiteArgent;
 
-	public humain(String nom, String boissonFavorite, int quantiteArgent) {
+	public Humain(String nom, String boissonFavorite, int quantiteArgent) {
 		super();
 		this.nom = nom;
 		this.boissonFavorite = boissonFavorite;
